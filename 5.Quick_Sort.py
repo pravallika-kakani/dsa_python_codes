@@ -20,5 +20,5 @@ def partition(arr, low, high):
     return j
 nums = [12, 1, 23, 45, 90, 11, 9]
 quick_sort(nums, 0, len(nums) - 1)
-
 print("Sorted array:", nums)
+#Output: sorted array: [1, 9, 11, 12, 23, 45, 90]
