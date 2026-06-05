@@ -8,3 +8,8 @@ target = 23
 print(linear(arr, target))
 target = 34
 print(linear(arr, target))
+'''
+Output:
+2
+-1
+'''
