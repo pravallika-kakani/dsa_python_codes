@@ -9,3 +9,7 @@ for i in range(0,n):
     elif(nums[i]> second_l and nums[i]!=largest):
         second_l = nums[i]
 print(second_l)
+'''
+Output:
+88
+'''
