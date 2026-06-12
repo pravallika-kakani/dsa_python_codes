@@ -11,3 +11,9 @@ for i in range(0, len(nums)):
 if(count > max_count):
     max_count = count
 print(max_count)
+
+
+'''
+INPUT: 1 1 1 1 0 0 0 1 1 1 1 1 1 
+OUTPUT: 6
+'''
